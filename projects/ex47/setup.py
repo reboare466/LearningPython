@@ -5,13 +5,13 @@ except ImportError:
 	
 config = {
 	'description': 'My Project',
-	'author': 'Ando',
+	'author': 'My Name',
 	'url': 'URL to get it at.',
 	'download_url': 'Where to download it.',
-	'author_email': 'avmurray2@gmail.com.',
+	'author_email': 'My email.',
 	'version': '0.1',
 	'install_requires': ['nose']
-	'packages': ['NAME'],
+	'packages': ['ex47'],
 	'scripts': []
 	'name': 'projectname'
 }
